@@ -1,0 +1,36 @@
+# Domínios de notícias esportivas
+||globoesporte.globo.com^
+||esporte.uol.com.br^
+||espn.com.br^
+||sportv.globo.com^
+||foxsports.com.br^
+||lance.com.br^
+||terra.com.br/esportes^
+||yahoo.com/esportes^
+
+# Portais de futebol
+||goal.com^
+||br.besoccer.com^
+||cbf.com.br^
+||fifa.com^
+||uefa.com^
+
+# Portais de esportes americanos
+||nba.com^
+||nfl.com^
+||mlb.com^
+||nhl.com^
+
+# Portais de esportes de motor
+||formula1.com^
+||motorsport.com^
+||motogp.com^
+
+# Portais de tênis
+||atptour.com^
+||tennis.com^
+
+# Portais de esportes olímpicos
+||olimpiadas.com.br^
+||teamusa.org^
+||teamgb.com^
