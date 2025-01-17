@@ -1,0 +1,8 @@
+||*.bet^
+||*.bet.br^
+||*.bet.*
+||*.casino.*
+||*.gamble.*
+||*.poker.*
+||*.wager.*
+||*.arbety.*
