@@ -1,5 +1,6 @@
 # Domínios de notícias esportivas
 ||globoesporte.globo.com^
+||ge.globo.com^
 ||esporte.uol.com.br^
 ||espn.com.br^
 ||sportv.globo.com^
