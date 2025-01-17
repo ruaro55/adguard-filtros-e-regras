@@ -2,12 +2,31 @@
 ||globoesporte.globo.com^
 ||ge.globo.com^
 ||esporte.uol.com.br^
+||uol.com.br/esporte/^
 ||espn.com.br^
 ||sportv.globo.com^
 ||foxsports.com.br^
 ||lance.com.br^
 ||terra.com.br/esportes^
 ||yahoo.com/esportes^
+||flashscore.com.br^
+||365scores.com^
+||www.transfermarkt.com.br^
+||www.gazetaesportiva.com^
+||esportes.r7.com^
+||superesportes.com.br^
+||tntsports.com.br^
+||grandepremio.com.br^
+||motorsport.uol.com.br^
+||bandsports.uol.com.br^
+||folha.uol.com.br/esporte/^
+||estadao.com.br/esportes/^
+||tenisbrasil.uol.com.br^
+||webvolei.com.br^
+||golf.com^
+||bbc.com/sport^
+||lnb.com.br^
+
 
 # Portais de futebol
 ||goal.com^
