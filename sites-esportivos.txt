@@ -11,8 +11,8 @@
 ||yahoo.com/esportes^
 ||flashscore.com.br^
 ||365scores.com^
-||www.transfermarkt.com.br^
-||www.gazetaesportiva.com^
+||transfermarkt.com.br^
+||gazetaesportiva.com^
 ||esportes.r7.com^
 ||superesportes.com.br^
 ||tntsports.com.br^
