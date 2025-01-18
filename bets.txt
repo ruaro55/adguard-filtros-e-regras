@@ -8,3 +8,4 @@
 ||*.arbety.*
 ||*.win.*
 ||*bet*
+||*stake.com.*
