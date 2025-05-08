@@ -85,7 +85,7 @@
 ||agenciabrasil.ebc.com.br^
 ||noticias.portaldaindustria.com.br^
 ||noticiapreta.com.br^
-^ig.com.br^
-^uol.com.br^
+||ig.com.br^
+||uol.com.br^
 ||noticias.cancaonova.com^
 ||agenciadenoticias.ibge.gov.br^
