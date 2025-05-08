@@ -80,3 +80,12 @@
 ||lavoz.com.ar^
 ||lacapital.com.ar^
 ||lagaceta.com.ar^
+||bbc.com^
+||atlas.jor.br^
+||agenciabrasil.ebc.com.br^
+||noticias.portaldaindustria.com.br^
+||noticiapreta.com.br^
+^ig.com.br^
+^uol.com.br^
+||noticias.cancaonova.com^
+||agenciadenoticias.ibge.gov.br^
