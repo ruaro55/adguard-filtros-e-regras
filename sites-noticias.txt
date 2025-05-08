@@ -80,7 +80,7 @@
 ||lavoz.com.ar^
 ||lacapital.com.ar^
 ||lagaceta.com.ar^
-||bbc.com^
+||www.bbc.com^
 ||atlas.jor.br^
 ||agenciabrasil.ebc.com.br^
 ||noticias.portaldaindustria.com.br^
