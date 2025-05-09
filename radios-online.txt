@@ -42,4 +42,6 @@
 ||campeirafm.com^
 ||mixriofm.com.br^
 ||*fm*
-
+||jornal.usp.br^
+||inconfidencia.com.br^
+||observador.pt^
