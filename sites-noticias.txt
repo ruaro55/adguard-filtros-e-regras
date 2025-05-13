@@ -110,3 +110,14 @@
 ||agenciadenoticias.bndes.gov.br^
 ||msn.com^
 ||tudogostoso.com.br^
+||clickpetroleoegas.com.br^
+||sociedademilitar.com.br^
+||uai.com.br^
+||www-tnh1-com-br.cdn.ampproject.org^
+||diariodocomercio.com.br^
+||comprerural.com^
+||diariodolitoral.com.br^
+||olhardigital.com.br^
+||portal6.com.br^
+||ign.com^
+||revistaoeste.com^
