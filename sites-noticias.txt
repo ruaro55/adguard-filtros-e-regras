@@ -108,3 +108,4 @@
 ||jn.pt^
 ||adorocinema.com^
 ||agenciadenoticias.bndes.gov.br^
+||msn.con^
