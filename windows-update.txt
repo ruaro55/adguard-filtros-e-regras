@@ -1,4 +1,3 @@
-||live.com^
 ||ctldl.windowsupdate.com^
 ||au.b1.download.windowsupdate.com^
 ||crl.microsoft.com^
@@ -23,9 +22,5 @@
 ||packages.dmd.metaservices.microsoft.com^
 ||11.dl.delivery.mp.microsoft.com^
 ||c.s-microsoft.com^
-||clienttemplates.content.office.net^
 ||adl.windows.com^
-||microsoft.com^
-||go.microsoft.com^
 ||dl.delivery.mp.microsoft.com^
-||support.content.office.microsoft.com^
